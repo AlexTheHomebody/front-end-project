@@ -1,0 +1,344 @@
+body {
+    background-image: url(https://i.redd.it/i28gaepqvlo41.png);
+    color: black;
+}
+#submit{
+    float: right;
+    height: 30px;
+    width: 100px;
+}
+.maker{
+    float: right;
+    height: 30px;
+    width: 130px;
+}
+.title{
+    text-decoration: underline;
+    text-align: center;
+    height: 50px;
+    font-size: xx-large;
+}
+.title-image{
+    float: right;
+    width: 100%;
+    height:100%;
+}
+.left-div{
+    width: 40%;
+    height: auto;
+    background-color: bisque;
+    float: left;
+    font-size: x-large;
+    margin-left: 50px;
+}
+.right-div{
+    float: right;
+    width: auto;
+    height: 700px;
+    margin-right: 100px;
+    border: 1px solid black;
+    background-color: beige;
+}
+
+.main-page-div{
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+    width: 900px;
+    height: 700px
+}
+.MNT{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/a335/fa58/9938/67c1/5025/1-my-neighbour-totoro.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: bottom;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.CITS{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/a067/5457/aed0/c76f/7006/15-laputa-castle-in-the-sky.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: bottom;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.GOTF{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/a2cb/0dd1/931e/57a3/89ff/3-grave-of-the-fireflies.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.TWR{
+    background-image: url(https://www.otaquest.com/wp-content/uploads/2020/11/firefox_5G1pazVjG3-768x414.jpg);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.KDS{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/a0e9/fa58/993e/08c1/500a/12-kikis-delivery-service.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.OY{
+    background-image: url(https://lwlies.com/wp-content/uploads/2020/01/only-yesterday-1108x0-c-default.jpg);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.PR{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/892db624-33eb-4fd2-80b2-a3f2b5f1354e/devr597-921a01d5-0eac-4fe7-beb1-f8d13e10734d.png/v1/fill/w_1280,h_739,q_80,strp/porco_rosso_small_girls_with_black_glove_by_iljaheld_devr597-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzM5IiwicGF0aCI6IlwvZlwvODkyZGI2MjQtMzNlYi00ZmQyLTgwYjItYTNmMmI1ZjEzNTRlXC9kZXZyNTk3LTkyMWEwMWQ1LTBlYWMtNGZlNy1iZWIxLWY4ZDEzZTEwNzM0ZC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dvaiqw48YiVzjxboRXq5ieHav6h-bDkxeHSw1kg9L8c);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.WOTH{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/a116/2ea9/ab00/615d/337d/11-whisper-of-the-heart.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: top;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.PM{
+    background-image: url(https://i0.wp.com/summitpsnews.org/wp-content/uploads/2021/04/princess-mononoke-banner.jpeg?fit=1000%2C288&ssl=1);
+    background-size: 100%;
+    background-position: center;
+    font-weight: bolder;
+    width: 450px;
+    height: 70px;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.SA{
+    background-image: url(https://cdn.domestika.org/c_fit,dpr_1.0,f_auto,t_base_params,w_610/v1600662106/content-items/005/823/203/chihiro014-original.jpg?1600662106);
+    background-size: 100%;
+    background-position: center;
+    font-weight: bolder;
+    width: 450px;
+    height: 70px;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.TCR{
+    background-image: url(https://www.nichi-eidomain.com/wp-content/uploads/2020/04/thecatreturns.jpg);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.HMC{
+   
+    background-image: url( https://www.gannett-cdn.com/-mm-/5a14215373d47057a1f9f87e93f61e4fb28db57c/c=0-265-2700-1784/local/-/media/2016/01/21/USATODAY/usatsports/e_howls_castle_mov_10_7965559.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp);
+    background-size: 100%;
+    background-position: top;
+    font-weight: bolder;
+    width: 450px;
+    height: 70px;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.TFE{
+    background-image: url(https://archive.nerdist.com/wp-content/uploads/2017/01/Tales-from-Earthsea-featured.jpg);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.P{
+    background-image: url(https://i.pinimg.com/originals/17/e1/5f/17e15f34393548b4e887d5e6f36571b0.jpg);
+    background-size: 100%;
+    background-position: center;
+    font-weight: bolder;
+    width: 450px;
+    height: 70px;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.PP{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/a044/5457/ae6d/c26f/7004/16-pom-poko.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.MNTY{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/9eac/0dd1/93d7/48a3/89d4/21-my-neighbours-the-yamadas.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.TRT{
+    background-image: url(https://static01.nyt.com/images/2017/01/15/arts/15redturtle4/15redturtle4-jumbo.jpg?quality=75&auto=webp);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size:25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.A{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/a0c4/fa58/9907/74c1/5009/13-arrietty.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.FUOPH{
+    background-image: url(https://bloomreviewsblog.files.wordpress.com/2017/01/latin-quarter-house.jpg);
+    background-size: 100%;
+    background-position: bottom;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.TTOTPK{
+    background-image: url(https://cdn.domestika.org/c_fit,dpr_1.0,f_auto,t_base_params,w_610/v1600662106/content-items/005/823/196/kaguyahime003-original.jpg?1600662106);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.WMWT{
+    background-image: url(https://images.bauerhosting.com/legacy/media/5e31/9f65/0dd1/93ee/cfa3/89dc/18-when-marnie-was-there.jpg?q=80&w=900);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.EATW{
+    background-image: url(https://video-images.vice.com/test-uploads/_uncategorized/1592820655825-aya_and_the_witch_6.jpeg);
+    background-size: 100%;
+    background-position: center;
+    width: 450px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 25px;
+    color: aliceblue;
+    -webkit-text-stroke: 1px black;
+}
+.founder{
+    text-align: center;
+    text-decoration: underline;
+}
+.left-img{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+
+}
+.center-img{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+}
+.right-img{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+}
+.left-div-founder{
+    float: left;
+    text-align: center;
+    font-size: x-large;
+    width: 300px;
+    height: 600px;
+    margin: 80px;
+}
+.center-div-founder{
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    font-size: x-large;
+    margin: 80px;
+}
+.right-div-founder{
+    float: right;
+    width: 300px;
+    height: 600px;
+    text-align: center;
+    font-size: x-large;
+    margin: 80px;
+}
+.whole-div-founder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 600px;
+    margin: 40px;
+    
+}
+
